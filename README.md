@@ -11,9 +11,9 @@
 2. Warunkiem zaliczenia indywidualnych ćwiczeń laboratoryjnych jest uzyskanie minimum 5 punktów z tych ćwiczeń. 
    Punkty za zadania dodatkowe są uwzględniane tylko wtedy, gdy uzyskano zaliczenie z każdych indywidualnych ćwiczeń.
 3. Warunkiem uzyskania zaliczenia z przedmiotu jest zaliczenie wszystkich indywidualnych ćwiczeń laboratoryjnych.
-4. Rozwiązanie indywidualnych ćwiczeń (z wyjątkiem ostatnich ćwiczeń) musi zostać wysłane na MS Teams lub na maila jadamczy@agh.edu.pl
+4. Rozwiązanie indywidualnych ćwiczeń (z wyjątkiem ostatnich ćwiczeń) musi zostać wysłane na MS Teams lub na maila podanego przez prowadzącego 
    w ciągu 2 tygodni od laboratoriów, na których zostało zadane, do godz. 23:59.
-4. Na laboratoriach 2-7 będzie przeprowadzona pisemna kartkówka z tematyki poprzedniego laboratorium oraz zadania. Z każdej kartkówki 
+6. Na laboratoriach 2-7 będzie przeprowadzona pisemna kartkówka z tematyki poprzedniego laboratorium oraz zadania. Z każdej kartkówki 
    można otrzymać 5 punktów. Nie ma minimalnej liczby punktów, które trzeba uzyskać w ramach kartkówek.
 5. Zgodnie z sylabusem, istnieje możliwość zamiany kartkówki na projekt indywidualny, w ramach którego należy zaimplementować 
    wybrany (i zaakceptowany przez prowadzącego) artykuł naukowy, oraz przygotować raport z jego wykonania i zaliczyć kolokwium 
