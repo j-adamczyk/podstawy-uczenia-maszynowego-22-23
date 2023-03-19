@@ -3,6 +3,7 @@
 ## Spis treści
 
 * [Regresja liniowa i logistyczna](lab1)
+* [Metody oparte o sąsiedztwo](lab2)
 
 ## Zasady zaliczania laboratoriów
 
