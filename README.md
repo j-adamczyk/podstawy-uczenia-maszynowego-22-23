@@ -4,6 +4,7 @@
 
 * [Regresja liniowa i logistyczna](lab1)
 * [Metody oparte o sąsiedztwo](lab2)
+* [Metody jądrowe (kernel methods)](lab3)
 
 ## Zasady zaliczania laboratoriów
 
