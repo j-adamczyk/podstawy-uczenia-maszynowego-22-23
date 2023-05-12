@@ -6,6 +6,7 @@
 * [Metody oparte o sąsiedztwo](lab2)
 * [Metody jądrowe (kernel methods)](lab3)
 * [Metody probabilistyczne](lab4)
+* [Klasyfikacja niezbalansowana i anomaly detection](lab5)
 
 ## Zasady zaliczania laboratoriów
 
