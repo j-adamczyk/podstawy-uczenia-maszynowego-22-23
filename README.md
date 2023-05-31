@@ -23,7 +23,7 @@
 5. Zgodnie z sylabusem, istnieje możliwość zamiany kartkówki na projekt indywidualny, w ramach którego należy zaimplementować 
    wybrany (i zaakceptowany przez prowadzącego) artykuł naukowy, oraz przygotować raport z jego wykonania i zaliczyć kolokwium 
    ustne na koniec semestru.
-5. W przypadku spóźnienia się z oddaniem indywidualnych ćwiczenia można je wysłać ze spóźnieniem w ciągu kolejnych 2 tygodni. 
+5. W przypadku spóźnienia się z oddaniem indywidualnych ćwiczenia można je wysłać ze spóźnieniem w ciągu kolejnych 2 tygodni. 
    Wtedy otrzymana liczba punktów jest mnożona przez 0.8, włącznie z ewentualnymi punktami za zadanie dodatkowe, zaokrąglona w górę 
    do najbliższego 0.25 punktu.
 5. Poprzedni punkt o możliwości spóźnienia nie dotyczy sytuacji, w której student miał nieobecność nieusprawiedliwioną na zajęciach. 
