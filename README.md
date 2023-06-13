@@ -8,6 +8,7 @@
 * [Metody probabilistyczne](lab4)
 * [Klasyfikacja niezbalansowana i anomaly detection](lab5)
 * [Selekcja cech i redukcja wymiarowości](lab6)
+* [Klasteryzacja](lab7)
 
 ## Zasady zaliczania laboratoriów
 
